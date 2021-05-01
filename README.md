@@ -2,7 +2,6 @@
 # Trilha Ignite 
 
 ## Finance API - First project with Node.js a finance API
-
 <br>
 
 ### The application must have the following features:
